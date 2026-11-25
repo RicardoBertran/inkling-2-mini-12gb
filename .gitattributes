@@ -1,0 +1,3 @@
+*.bat text eol=crlf
+pruebas/0*.txt text eol=lf
+pruebas/constitucion-boe-2026-05-20.txt -text

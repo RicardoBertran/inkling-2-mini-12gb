@@ -1,0 +1,10 @@
+/llama.cpp/
+/modelos/
+/descargas/
+*.gguf
+*.dll
+*.exe
+*.zip
+*.log
+.env
+.env.*

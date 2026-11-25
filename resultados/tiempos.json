@@ -1,0 +1,35 @@
+{
+  "01-ia-generativa": {
+    "cache_n": 0,
+    "prompt_n": 91,
+    "prompt_ms": 1893.61,
+    "prompt_per_token_ms": 20.8089010989011,
+    "prompt_per_second": 48.05635796177672,
+    "predicted_n": 2363,
+    "predicted_ms": 75666.151,
+    "predicted_per_token_ms": 32.034780270956816,
+    "predicted_per_second": 31.216071767678525
+  },
+  "02-presupuesto": {
+    "cache_n": 0,
+    "prompt_n": 180,
+    "prompt_ms": 2406.894,
+    "prompt_per_token_ms": 13.371633333333332,
+    "prompt_per_second": 74.78517957168036,
+    "predicted_n": 3542,
+    "predicted_ms": 113992.061,
+    "predicted_per_token_ms": 32.192053374752895,
+    "predicted_per_second": 31.063566786462435
+  },
+  "03-constitucion": {
+    "cache_n": 12,
+    "prompt_n": 29587,
+    "prompt_ms": 182635.57,
+    "prompt_per_token_ms": 6.172831649035049,
+    "prompt_per_second": 162.00020620298662,
+    "predicted_n": 3251,
+    "predicted_ms": 113412.555,
+    "predicted_per_token_ms": 34.896170769230764,
+    "predicted_per_second": 28.656439315735373
+  }
+}

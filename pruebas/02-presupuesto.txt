@@ -1,0 +1,17 @@
+Una pequeña empresa dispone de un presupuesto de 300 euros para contratar varios servicios. Cada servicio tiene un coste y una puntuación de utilidad:
+
+- A: 180 euros y 8 puntos.
+- B: 140 euros y 7 puntos.
+- C: 110 euros y 6 puntos.
+- D: 90 euros y 5 puntos.
+- E: 70 euros y 4 puntos.
+
+Existen tres condiciones:
+
+- Si contrata B, también debe contratar E.
+- Los servicios C y D son incompatibles.
+- Cada servicio puede contratarse una sola vez.
+
+¿Qué combinación proporciona la máxima puntuación sin superar el presupuesto?
+
+Explica tu razonamiento, calcula el coste total y demuestra que no existe una combinación mejor.

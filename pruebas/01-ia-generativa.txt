@@ -1,0 +1,5 @@
+Explica cómo funciona la inteligencia artificial generativa a una persona sin conocimientos técnicos. Utiliza ejemplos cotidianos y explica las diferencias entre los modelos de texto, imagen y vídeo.
+
+Desarrolla también sus aplicaciones prácticas, ventajas, limitaciones y posibilidades de futuro.
+
+Escribe aproximadamente 1.000 palabras en español, con explicaciones claras y ejemplos concretos.
